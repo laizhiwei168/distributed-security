@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netflix.hystrix:hystrix-javanica:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-javanica/unknown/hystrix-javanica-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-javanica/unknown/hystrix-javanica-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-javanica/unknown/hystrix-javanica-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
